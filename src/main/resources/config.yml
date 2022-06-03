@@ -1,0 +1,10 @@
+config-version: 1
+prefix: '&7[&dSSWL&7] '
+database:
+  #local - mysql
+  store: local
+  database-ip: 127.0.0.1
+  username: admin
+  password: 123
+  port: 3306
+

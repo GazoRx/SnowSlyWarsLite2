@@ -1,0 +1,9 @@
+name: SnowSkyWarsLite
+version: '${project.version}'
+main: com.snowlight.core.Plugin
+api-version: 1.18
+prefix: SSWL
+depend: [ ProtocolLib ]
+authors: [ GrimOK ]
+description: A demo of SnowSkyWars Plugin
+website: www.snowlightdev.com
